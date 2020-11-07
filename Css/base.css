@@ -1,0 +1,17 @@
+.noStyle{
+    margin: 0;
+    padding: 0;
+}
+.hori li{
+    float: left;
+    padding: 5px;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+nav{
+    height: 10%;
+}
