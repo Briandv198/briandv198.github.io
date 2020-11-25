@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+html {
+    font-size: 62.5%;
+}
+main {
+    font-family: monospace;
+    color: black;
+    font-size: 2rem;
+}
+img.image {
+    width: 40%;
+    min-width: 80px;
+    min-height: 50px;
+    border-radius: 50%;
+    border: 3px solid;
+    border-color: orange;
+}
+.aha {
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    top: 3rem;
+}
+.article {
+    padding: 15px;
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 70%;
+    min-width: 500px;
+    min-height: 200px;
+    background-color: yellow;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 5px;
+}
+.article * {
+    padding: 1rem;
+}
+.article li {
+    margin-left: 4rem;
+}
