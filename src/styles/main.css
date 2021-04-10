@@ -30,13 +30,13 @@ main {
 }
 .container {
     width: 100%;
-    max-width: 1200px;
+    max-width: 1500px;
     height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url('../../assets/images/background1.png');
+    background-image: url('../../images/background1.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
